@@ -31,4 +31,4 @@ I build backend services that collect, process, and act on data in real time —
 
 I'm available for freelance work. If you need help with data pipelines, API integrations, or Python backend development:
 
-**[Portfolio](https://abhinavsehgal123.github.io)** · **[LinkedIn](https://linkedin.com/in/)**
+**[Portfolio](https://abhinavsehgal123.github.io)** · **[LinkedIn](https://www.linkedin.com/in/abhinav-sehgal-0b4897158/)**
